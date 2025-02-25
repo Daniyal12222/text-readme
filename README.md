@@ -1,3 +1,5 @@
 # git readme
 
-new add line
+new add 
+
+how to add
